@@ -13,6 +13,7 @@ Shorcodes for gatsby-plugin-mdx.
 ## Install
 
 [![npm](https://img.shields.io/npm/v/@pittica/gatsby-plugin-mdx-shortcodes)](https://www.npmjs.com/package/@pittica/gatsby-plugin-mdx-shortcodes)
+![npm](https://img.shields.io/npm/dm/@pittica/gatsby-plugin-mdx-shortcodes)
 
 ```shell
 npm install @pittica/gatsby-plugin-mdx-shortcodes
