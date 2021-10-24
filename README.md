@@ -42,4 +42,4 @@ Built for internal use.
 
 ## Copyright
 
-(c) 2021, [Pittica S.r.l.s.](https://pittica.com)
+(c) 2021, [Pittica S.r.l.](https://pittica.com)
