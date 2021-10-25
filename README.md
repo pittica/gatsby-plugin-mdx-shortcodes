@@ -4,7 +4,6 @@
 ![Version](https://img.shields.io/github/package-json/v/pittica/gatsby-plugin-mdx-shortcodes)
 ![Release](https://img.shields.io/github/v/release/pittica/gatsby-plugin-mdx-shortcodes)
 ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/pittica/gatsby-plugin-mdx-shortcodes/react)
-[![npm](https://img.shields.io/npm/v/@pittica/gatsby-plugin-mdx-shortcodes)](https://www.npmjs.com/package/@pittica/gatsby-plugin-mdx-shortcodes)
 
 ## Description
 
